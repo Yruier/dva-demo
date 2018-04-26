@@ -1,0 +1,8 @@
+.News {
+    flex: 1;
+    overflow: scroll;
+}
+
+.newsItem {
+    border-bottom: 1px solid #999;
+}
